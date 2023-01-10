@@ -1,0 +1,3 @@
+problem:
+- kan ikke skifte farve på teksten på navibar
+- 
